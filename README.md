@@ -2,9 +2,14 @@
 
 **`Engenheiro de Software | Full Stack Developer`**
 
-Sou Engenheiro de Software com atuação em desenvolvimento full stack, trabalhando principalmente com Angular, C#, .NET e SQL Server. Tenho experiência com análise de requisitos, versionamento com Git e metodologias ágeis como Scrum e Kanban.
+💻 Engenheiro de Software Full Stack apaixonado por tecnologia, desenvolvimento de soluções escaláveis e aprendizado contínuo.
 
-Gosto de desenvolver soluções bem estruturadas, com foco em organização, qualidade de código e boas práticas como Clean Code. Estou sempre buscando evolução técnica e profissional, principalmente em arquitetura de software e desenvolvimento de aplicações escaláveis.
+Tenho experiência no desenvolvimento de aplicações utilizando Angular, C#, .NET, SQL Server e Git, atuando em todas as etapas do ciclo de desenvolvimento de software. Trabalho com metodologias ágeis (Scrum e Kanban) e aplico conceitos de Clean Code, SOLID e boas práticas de arquitetura para entregar soluções robustas, performáticas e de fácil manutenção.
+
+🎓 Atualmente curso uma pós-graduação em Ciência de Dados e Inteligência Artificial, aprofundando conhecimentos em análise de dados, machine learning e tecnologias orientadas por IA.
+
+🚀 Estou sempre em busca de novos desafios, oportunidades de crescimento e projetos que unam engenharia de software, inovação e inteligência artificial.
+
 
 <p align="left">
    <a href = "mailto:devrm.tech@gmail.com">
